@@ -1,11 +1,11 @@
 # Basic
 title: bladechen
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+subtitle: 黑暗给了我黑色的眼睛，我却用他来寻找光明
+welcome_message: <a href="https://github.com/bladechen/9242" target="_blank"> UNSW AOS(高级操作系统) 项目源代码 </a>
+description: 10年编程经验, Ex-acmer, 前腾讯后台开发工程师 <br> 专注于Linux C/C++ 后台开发, 分布式系统, 操作系统内核
+# creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "http://vno.onevcat.com"
+# url: "http://vno.onevcat.com"
 
 permalink: /:year/:month/:title/
 
@@ -33,7 +33,7 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: vno-jekyll
+    disqus: bladechen
     # duoshuo:
 
 # Social
